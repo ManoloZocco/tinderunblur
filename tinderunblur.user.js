@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Tinder Unblur
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ManoloZocco/tinderunblur
 // @version      1.0
 // @description  Unblur Tinder fast match teasers
+// @author       Manolo Zocco
 // @match        https://tinder.com/*
 // @grant        none
 // ==/UserScript==
