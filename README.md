@@ -1,5 +1,3 @@
----
-
 # Tinder Unblur
 
 ## Overview
@@ -124,8 +122,6 @@
 
 - **Automated Execution:**
   - Automatically executed the `unblur` function upon the full loading of the page.
-
----
 
 ## Contributing
 
